@@ -2094,7 +2094,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4137313445770980520, guid: 3687152f15ba9ff4c885242785e93123, type: 3}
       propertyPath: Brushes.Array.size
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4137313445770980520, guid: 3687152f15ba9ff4c885242785e93123, type: 3}
       propertyPath: Brushes.Array.data[3]
@@ -2112,6 +2112,10 @@ PrefabInstance:
       propertyPath: Brushes.Array.data[6]
       value: 
       objectReference: {fileID: 11400000, guid: 3f673dd17dd598442b4c3701e3293644, type: 2}
+    - target: {fileID: 4137313445770980520, guid: 3687152f15ba9ff4c885242785e93123, type: 3}
+      propertyPath: Brushes.Array.data[7]
+      value: 
+      objectReference: {fileID: 11400000, guid: 3e706e805489b8e41828eca892330c7e, type: 2}
     - target: {fileID: 4137313445770980520, guid: 3687152f15ba9ff4c885242785e93123, type: 3}
       propertyPath: OnBrushChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
